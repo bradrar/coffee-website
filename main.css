@@ -1,0 +1,24 @@
+html, body {height: 100%;}
+
+.jumbotron {
+    overflow:hidden;
+}
+
+#navbar {
+    position: fixed;
+}
+
+#front-img {
+    position: relative;
+    margin-top: 4%;
+}
+
+
+
+#what-we-do img {
+    display: block;
+    max-width: 100%;
+    width: 500px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: cover;
+  }
